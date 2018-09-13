@@ -1,0 +1,12 @@
+{
+    "name": "mxk/phpspider-dota2",
+    "authors": [
+        {
+            "name": "miaotaizi",
+            "email": "kai32702706@163.com"
+        }
+    ],
+    "require": {
+        "owner888/phpspider": "^2.1"
+    }
+}
